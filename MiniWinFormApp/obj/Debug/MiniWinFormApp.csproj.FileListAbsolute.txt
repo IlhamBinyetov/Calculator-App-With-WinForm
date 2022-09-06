@@ -1,0 +1,11 @@
+C:\Users\Taleh-PC\source\repos\MiniWinFormApp\MiniWinFormApp\bin\Debug\MiniWinFormApp.exe.config
+C:\Users\Taleh-PC\source\repos\MiniWinFormApp\MiniWinFormApp\bin\Debug\MiniWinFormApp.exe
+C:\Users\Taleh-PC\source\repos\MiniWinFormApp\MiniWinFormApp\bin\Debug\MiniWinFormApp.pdb
+C:\Users\Taleh-PC\source\repos\MiniWinFormApp\MiniWinFormApp\obj\Debug\MiniWinFormApp.csproj.AssemblyReference.cache
+C:\Users\Taleh-PC\source\repos\MiniWinFormApp\MiniWinFormApp\obj\Debug\MiniWinFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Taleh-PC\source\repos\MiniWinFormApp\MiniWinFormApp\obj\Debug\MiniWinFormApp.Form1.resources
+C:\Users\Taleh-PC\source\repos\MiniWinFormApp\MiniWinFormApp\obj\Debug\MiniWinFormApp.Properties.Resources.resources
+C:\Users\Taleh-PC\source\repos\MiniWinFormApp\MiniWinFormApp\obj\Debug\MiniWinFormApp.csproj.GenerateResource.cache
+C:\Users\Taleh-PC\source\repos\MiniWinFormApp\MiniWinFormApp\obj\Debug\MiniWinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Taleh-PC\source\repos\MiniWinFormApp\MiniWinFormApp\obj\Debug\MiniWinFormApp.exe
+C:\Users\Taleh-PC\source\repos\MiniWinFormApp\MiniWinFormApp\obj\Debug\MiniWinFormApp.pdb
